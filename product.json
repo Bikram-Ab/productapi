@@ -3,48 +3,56 @@
         "name": "R15 V4",
         "price": 220000,
         "feature": true,
-        "company": "YAMAHA"
+        "company": "YAMAHA",
+        "image": "https://www.bajajmall.in/emistore/media/catalog/product/y/a/yamahar15v4intensitywhite_base_2.jpeg"
     },
     {
         "name": "RC 200",
         "price": 240000,
         "feature": true,
-        "company": "KTM"
+        "company": "KTM",
+        "image": "https://th.bing.com/th/id/OIP.RkdDMFK-zAyZAiB5ZWLC8wAAAA?rs=1&pid=ImgDetMain"
     },
     {
         "name": "RS 200",
         "price": 170000,
         "feature": false,
-        "company": "PULSAR"
+        "company": "PULSAR",
+        "image": "https://www.team-bhp.com/forum/attachments/motorbikes/2385276d1669787636-tvs-apache-rtr-160-4v-special-edition-launched-gets-lightweight-bullpup-exhaust-20221129060825_white-_-back.jpg"
     },
     {
         "name": "RTR 310",
         "price": 280000,
         "feature": false,
-        "company": "APACHI"
+        "company": "APACHI",
+        "image": "https://www.rushlane.com/wp-content/uploads/2023/01/tvs-apache-310-rtr-naked-launch-soon-tvc-shoot.jpg"
     },
     {
         "name": "MT-15",
         "price": 200000,
         "feature": true,
-        "company": "YAMAHA"
+        "company": "YAMAHA",
+        "image": "https://www.thrustzone.com/wp-content/uploads/2023/02/MT15-Metallic-Black-3-QTR-scaled.jpg"
     },
     {
         "name": "Duke 250",
         "price": 280000,
         "feature": true,
-        "company": "KTM"
+        "company": "KTM",
+        "image": "https://somosmoto.pe/images/models/gallery/ktm-duke-250-2017-gallery-e86ec2.jpg"
     },
     {
         "name": "RS 200",
         "price": 170000,
         "feature": false,
-        "company": "PULSAR"
+        "company": "PULSAR",
+        "image": "https://th.bing.com/th/id/OIP.Ell6wkjPceVb1Up2adIuCQAAAA?w=474&h=371&rs=1&pid=ImgDetMain"
     },
     {
         "name": "RTR V4",
         "price": 280000,
         "feature": false,
-        "company": "APACHI"
+        "company": "APACHI",
+        "image": "https://www.bajajmall.in/emistore/media/catalog/product/y/a/yamahar15v4intensitywhite_base_2.jpeg"
     }
 ]
